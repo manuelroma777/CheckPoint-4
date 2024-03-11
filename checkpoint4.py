@@ -1,4 +1,4 @@
-import math  # Necesario para la función de raíz cuadrada
+import math  # Necessary for the square root function
 from decimal import Decimal
 
 # Exercise 1
@@ -6,7 +6,7 @@ one_list = [21, 22, 23]
 one_tuple = (41, 51, 61)
 one_float = 3.14
 one_integer = 7777
-one_decimal = Decimal(2.5) # Utilizando Decimal del módulo decimal
+one_decimal = Decimal(2.5) # Using Decimal of the decimal module
 one_dict = {
     'a': 1000, 
     'b': 2000, 
